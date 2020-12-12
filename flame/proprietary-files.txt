@@ -2,6 +2,9 @@
 
 # product partition
 
+# AiAi
+product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
+
 # Qualcomm misc
 product/app/uimremoteclient/uimremoteclient.apk
 product/app/uimremoteserver/uimremoteserver.apk
