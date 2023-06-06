@@ -6,6 +6,9 @@
 product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk;PRESIGNED
 product/priv-app/DevicePersonalizationPrebuiltPixel4/DevicePersonalizationPrebuiltPixel4.apk;PRESIGNED
 
+# Citadel - from coral-qd1a.190821.007-factory-e915f51a
+vendor/firmware/citadel/FIH-RC1-dev-fusing.ec.bin|bc086148dd33158053e89002460879c16970782c
+
 # Qualcomm misc
 product/app/uimremoteclient/uimremoteclient.apk
 product/app/uimremoteserver/uimremoteserver.apk
