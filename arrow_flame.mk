@@ -13,7 +13,7 @@ $(call inherit-product, device/google/coral/aosp_flame.mk)
 include device/google/coral/device-arrow.mk
 
 # ArrowOS additions
-DEVICE_MAINTAINER := hiper25
+DEVICE_MAINTAINER := EdwardWu
 
 # Device identifier. This must come after all inclusions
 PRODUCT_BRAND := google
